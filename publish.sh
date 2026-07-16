@@ -22,4 +22,4 @@ if git diff --cached --quiet; then
 fi
 git commit -m "$MSG"
 git push
-echo "✓ 已推送。GitHub Actions 正在构建，稍后访问： https://WaitingChen0117.github.io/"
+echo "✓ 已推送。GitHub Actions 正在构建，稍后访问： https://waitingchen-wiki.tech/"
