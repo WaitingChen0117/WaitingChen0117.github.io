@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "zh-CN",
-    baseUrl: "waitingchen-wiki.tech",
+    baseUrl: "WaitingChen0117.github.io",
     ignorePatterns: ["private", "templates", "_templates", "00-Inbox", ".obsidian", ".comate"],
     defaultDateType: "modified",
     theme: {
